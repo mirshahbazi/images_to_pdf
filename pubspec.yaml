@@ -1,7 +1,7 @@
 name: images_to_pdf
 description: A Flutter plugin that generates a PDF file from a list of image files.
 version: 0.0.1
-homepage: https://github.com/jintoapp/images_to_pdf
+homepage: https://github.com/mirshahbazi/images_to_pdf
 
 environment:
   sdk: ">=2.14.0 <4.0.0"
